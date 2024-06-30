@@ -17,7 +17,7 @@
   - [Таблица 5: Seat](#таблица-5-seat)
   - [Таблица 6: Reservation](#таблица-6-reservation)
   - [Таблица 7: User](#таблица-7-user)
-- [Скрипт для генерации SQL запросов заполнения таблиц](https://github.com/StasaoSan/BonusTrackFinalProject/blob/main/createImportL.ipynb)
+- [Скрипт для генерации SQL запросов заполнения таблиц](https://github.com/StasaoSan/BonusTrackFinalProject/blob/main/createImport.ipynb)
 
 
 
@@ -41,7 +41,7 @@
 
 ### Скрипт заполнения таблиц данными
 
-Скрипт заполнения таблиц данными, сгенерированными программой, написанной мной (ее описание можно посмотреть [тут](https://github.com/StasaoSan/BonusTrackFinalProject/blob/main/createImportL.ipynb), итоговый результат можно найти в файле `insert.sql`.
+Скрипт заполнения таблиц данными, сгенерированными программой, написанной мной (ее описание можно посмотреть [тут](https://github.com/StasaoSan/BonusTrackFinalProject/blob/main/createImport.ipynb), итоговый результат можно найти в файле `insert.sql`.
 
 ### Скрипт заполнения таблиц из CSV файлов
 

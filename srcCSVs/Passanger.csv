@@ -1,0 +1,9 @@
+ID,UserSiteID,Name,Surname,Pathronymic,Age,DateOfBithdate,Gender,SerialNumberDocument,TypeOfDocument
+8,8,Anna,Ananova,Anatolievna,27,1995-08-12,F,4501234574,Passport
+9,9,Nikolay,Nikolaev,Nikolaevich,45,1977-02-23,M,4501234575,Passport
+10,10,Olga,Olganova,Olegovna,31,1991-03-18,F,4501234576,Passport
+11,11,Igor,Igorev,Igorevich,36,1986-05-22,M,4501234577,Passport
+12,12,Svetlana,Svetlanova,Sergeevna,41,1981-07-30,F,4501234578,Passport
+13,13,Alexey,Alexeev,Alexeevich,29,1993-09-15,M,4501234579,Passport
+14,14,Elena,Elenova,Valentinovna,34,1988-12-04,F,4501234580,Passport
+15,15,Petr,Petrov,Petrovich,50,1972-11-20,M,4501234581,Passport

@@ -1,0 +1,9 @@
+ID,Insuranse,SeatID,PassangerID,TypeOfBill,PaymentCurrency
+8,Yes,8,8,Electronic,USD
+9,No,9,9,Paper,EUR
+10,Yes,10,10,Electronic,RUB
+11,No,11,11,Paper,USD
+12,Yes,12,12,Electronic,EUR
+13,No,13,13,Paper,RUB
+14,Yes,14,14,Electronic,USD
+15,No,15,15,Paper,EUR
